@@ -1,0 +1,3 @@
+var config = {};
+config.Token	=	  '21c4zAPSGmiDrW3R4VxxT_7rkyuqooPyW169QG4Ydff';
+module.exports = config;
